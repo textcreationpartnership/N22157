@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:029231_0000_0FDF7422B6514DD0"/>
-            <pb facs="tcp:029231_0001_0FDFF60D63CC2770" rendition="simple:additions"/>
+            <pb facs="unknown:029231_0000_0FDF7422B6514DD0"/>
+            <pb facs="unknown:029231_0001_0FDFF60D63CC2770"
+                rendition="simple:additions"/>
             <p>THE OCEAN SPECTRE, AN ENTIRE NEW GRAND MELO DRAME: IN FIVE ACTS. Intersperced with Songs, Chorusses, &amp;c.</p>
             <l>"The critic's eye, that microscope of wit,</l>
             <l>"Sees hairs, and pores, examined bit by bit;</l>
@@ -127,7 +128,8 @@
             <p>Copy right secured according to law.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:029231_0002_0FDF742BAF908B50" rendition="simple:additions"/>
+            <pb facs="unknown:029231_0002_0FDF742BAF908B50"
+                rendition="simple:additions"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <item>LORENZO—<hi>Son of Flavio, in love with Isabella.</hi>
@@ -185,7 +187,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:029231_0002_0FDF742BAF908B50"/>
+            <pb facs="unknown:029231_0002_0FDF742BAF908B50"/>
             <head>THE OCEAN SPECTRE.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -234,7 +236,7 @@
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>er'd o'er my head! the rain in torrents fell—the
-<pb n="2" facs="tcp:029231_0003_0FDFF5B4ECA23948"/>
+<pb n="2" facs="unknown:029231_0003_0FDFF5B4ECA23948"/>
 winds blew, as tho' boreas would have spent himself in a single blast—but oh, in the end what a lucky dog was I!</p>
                   </sp>
                   <sp>
@@ -289,7 +291,7 @@ winds blew, as tho' boreas would have spent himself in a single blast—but oh, 
                         </gap>yond myself 'twixt love and hope! recovering mys<gap reason="illegible" resp="#PDCC" extent="3 letters">
                            <desc>•••</desc>
                         </gap>
-                        <pb n="3" facs="tcp:029231_0003_0FDFF5B4ECA23948"/>
+                        <pb n="3" facs="unknown:029231_0003_0FDFF5B4ECA23948"/>
 a little, the precious moment I improved, and extin<g ref="char:EOLhyphen"/>guish'd the waxen taper; at which she express'd sur<g ref="char:EOLhyphen"/>prise: I apologized in a quite low whisper and clasped her in my arms—Harry guess you the rest, for more I'll not tell thee about tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>.</p>
@@ -339,7 +341,7 @@ a little, the precious moment I improved, and extin<g ref="char:EOLhyphen"/>guis
                   <sp>
                      <speaker>Wal.</speaker>
                      <p>His name is Signior Lorenzo. When we
-<pb n="4" facs="tcp:029231_0004_0FDFF5BE29302C98"/>
+<pb n="4" facs="unknown:029231_0004_0FDFF5BE29302C98"/>
 reached the shore, he demanded satisfaction; I told him I knew of now insult offered, I thought there<g ref="char:EOLhyphen"/>fore no satisfaction requisite; but that I would every day run the same risk, to be rewarded thus at night.</p>
                   </sp>
                   <sp>
@@ -379,7 +381,7 @@ reached the shore, he demanded satisfaction; I told him I knew of now insult off
                      <p>Could I with honour decline the combat, I would willingly indeed—but to be branded with a coward's name, I would not disgrace my country so. No American yet has disgraced our annals by in<g ref="char:EOLhyphen"/>glorious cowardice; nor shall it be said, that one o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="5" facs="tcp:029231_0004_0FDFF5BE29302C98"/>
+                        <pb n="5" facs="unknown:029231_0004_0FDFF5BE29302C98"/>
 Columbia's sons, though in a foreign land, did e'er forget the glorious inheritance of his ancestors.</p>
                   </sp>
                   <sp>
@@ -442,7 +444,7 @@ Well, well I consent.
                      </p>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:029231_0005_0FDFF5C0826EB9F8"/>
+                     <pb n="6" facs="unknown:029231_0005_0FDFF5C0826EB9F8"/>
                      <speaker>Ped.</speaker>
                      <p>Who goes there?</p>
                   </sp>
@@ -505,7 +507,7 @@ Art thou a deep read vil<g ref="char:EOLhyphen"/>lain?</p>
                      <p>Yes, as good luck would have it, my cel<g ref="char:EOLhyphen"/>lebrity that way being suspected, I was sent for to do the job, the little nobody's child did squeak a<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>
-                        <pb n="7" facs="tcp:029231_0005_0FDFF5C0826EB9F8"/>
+                        <pb n="7" facs="unknown:029231_0005_0FDFF5C0826EB9F8"/>
 squall most damnably—fearful the little fellow might catch cold, I put my hat on his head, and my cloak round him. What is to be done with this little fel<g ref="char:EOLhyphen"/>low? says I—you must kill him says he, crouding a weighty purse into my hand—'tis done says I, put<g ref="char:EOLhyphen"/>ting it into my pocket. I left him—pop't off in a boat, hung an ornament round his neck, down he went to the bottom safe enough, and never said a word. A hundred such jobs a week, would keep me in style in a short time without any such labour.</p>
                   </sp>
                   <sp>
@@ -561,7 +563,7 @@ I am your slave. How many men, women<g ref="char:punc">▪</g> children, orphans
                      <p>Will't thou not tell thy faithful Pedras of the cause?</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:029231_0006_0FDFF5C2E177FE40"/>
+                     <pb n="8" facs="unknown:029231_0006_0FDFF5C2E177FE40"/>
                      <speaker>Lor.</speaker>
                      <p>That would avail but little towards remov<g ref="char:EOLhyphen"/>ing the weight upon my soul. Murdering innocence! O lovely innocence!</p>
                   </sp>
@@ -618,7 +620,7 @@ I am your slave. How many men, women<g ref="char:punc">▪</g> children, orphans
                         </gap>r accents <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>o melodious dropt, she the air pregnated with such salubrious breath, am<g ref="char:EOLhyphen"/>brosial sweets engender'd on her lips! Oh! with what transport I press'd my lips to her's; possess'd
-<pb n="9" facs="tcp:029231_0006_0FDFF5C2E177FE40"/>
+<pb n="9" facs="unknown:029231_0006_0FDFF5C2E177FE40"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>t once of all my hearts desire, created passions in <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -697,7 +699,7 @@ I am your slave. How many men, women<g ref="char:punc">▪</g> children, orphans
                   <stage>Exeunt omnes.</stage>
                </div>
                <div n="3" type="scene">
-                  <pb n="10" facs="tcp:029231_0007_0FDFF5C47B3A4310"/>
+                  <pb n="10" facs="unknown:029231_0007_0FDFF5C47B3A4310"/>
                   <head>
                      <hi>SCENE III.</hi>—In Padua.—A room in <hi>CELIO'S</hi> house.</head>
                   <sp>
@@ -791,7 +793,7 @@ I am your slave. How many men, women<g ref="char:punc">▪</g> children, orphans
                      <p>Though he were the only man on earth, never would call him husband.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:029231_0007_0FDFF5C47B3A4310"/>
+                     <pb n="11" facs="unknown:029231_0007_0FDFF5C47B3A4310"/>
                      <speaker>Cel.</speaker>
                      <p>Then shal't thou not call me father; hear my malediction! if thou still art obstinate, by hea<g ref="char:EOLhyphen"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -887,7 +889,7 @@ as you loved <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>feless hand you pressed; you did not answer, for <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>our heart was full, labouring for vent; but indeed,
-<pb n="12" facs="tcp:029231_0008_0FDFF5CD8721E998"/>
+<pb n="12" facs="unknown:029231_0008_0FDFF5CD8721E998"/>
 your eyes spoke, and put the seal of heaven upon it.</p>
                   </sp>
                   <sp>
@@ -946,7 +948,7 @@ We have five min<g ref="char:EOLhyphen"/>utes yet to spare. What think you of th
                   <sp>
                      <speaker>Wal.</speaker>
                      <p>There is something in the Italian ladies so
-<pb n="13" facs="tcp:029231_0008_0FDFF5CD8721E998"/>
+<pb n="13" facs="unknown:029231_0008_0FDFF5CD8721E998"/>
 wanton, it sets me in a blaze; the sight of one of them sets my heart thumping for an hour.
 <stage>[<hi>Enter</hi> LORENZO <hi>and</hi> PEDRAS <hi>with Assasins; they place them in ambush.</hi>]</stage>
 Gentlemen, your most obedient, I think I have seen thy visage once before, Lorenzo?</p>
@@ -985,7 +987,7 @@ Gentlemen, your most obedient, I think I have seen thy visage once before, Loren
                      <speaker>FLAVIO</speaker>
                      <stage>Solo.</stage>
                      <p>Here have I wearied my aged limbs, pacing with anxious steps, in expectation of my childs return; some accident sure has happened, she would not have staid thus long else to torture her father's heart; some sad omen shakes my decayed frame, and tells me we shall not meet again. Last night when rosy slumbers stole upon my care-worn mind, methought Phoebus in splendor ne'er had shone so bright; all the earth seem'd richen'd with his orient beams; when soon and sud<g ref="char:EOLhyphen"/>den, as if nature revolted and hurl'd black curtains 'twixt the sun and earth, flashes of streaming fire
-<pb n="14" facs="tcp:029231_0009_0FDFF5CFF33B4F88"/>
+<pb n="14" facs="unknown:029231_0009_0FDFF5CFF33B4F88"/>
 burst through his contending screens, and waters gush'd, as if to drown the earth! the savage beasts for shelter ran precipitate with horrid yell from place to place, and heaven's feathered couriers with ex<g ref="char:EOLhyphen"/>panded wings floated breathless down the engulphed precipices!—A ship then appeared in view tossing among the billows, she dashed against the rocks; in that dire moment the schrieking of the victims rous'd me from my lethargy, and it struck so strong impres<g ref="char:EOLhyphen"/>sion on my senses, that for some time I thought 'twas real.
 <stage>
                            <hi>Enter</hi> SERVANT <hi>hastily</hi>
@@ -1021,7 +1023,7 @@ burst through his contending screens, and waters gush'd, as if to drown the eart
                      <p>When gliding through the water with a gen<g ref="char:EOLhyphen"/>tle breeze, a cloud appeared, but no danger seemed to threaten; and as it imperceptibly approach'd, an envious flaw upset your Gondola, and all were threat<g ref="char:EOLhyphen"/>ened with a wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>y grave. Florinda then more frigh<g ref="char:EOLhyphen"/>ten'd than the rest, being less able to support herself, for some short time most pitiously shriek'd aloud, im<g ref="char:EOLhyphen"/>ploring help; two strangers from a boat close by, plunged into the water and arrived to Celio's and Flo<g ref="char:EOLhyphen"/>rinda's help, whose body's were disappearing; Florin<g ref="char:EOLhyphen"/>da for a while was lost, so was one of the stran<g ref="char:EOLhyphen"/>gers, he brought her from the bottom, I beheld her in one arm quite lifeless borne; while the other gen<g ref="char:EOLhyphen"/>tleman
-<pb n="15" facs="tcp:029231_0009_0FDFF5CFF33B4F88"/>
+<pb n="15" facs="unknown:029231_0009_0FDFF5CFF33B4F88"/>
 assisted Celio, and we were soon all taken on bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>rd our preservers boat.</p>
@@ -1087,7 +1089,7 @@ You the preserver of my brother; my study shall be <gap reason="illegible" resp=
                   <sp>
                      <speaker>Wal.</speaker>
                      <p>'Twould be an ill compliment indeed for
-<pb n="16" facs="tcp:029231_0010_0FDFF5D19146ED88"/>
+<pb n="16" facs="unknown:029231_0010_0FDFF5D19146ED88"/>
 us to refuse your candid invitation, I answer for my friend.</p>
                   </sp>
                   <sp>
@@ -1156,7 +1158,7 @@ This is not I hope—</p>
                      <p>That was love of a more vulgar specie, this is as different as day-light and darkness—full of the most tender refined feelings. Oh that you were not my rival!</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:029231_0010_0FDFF5D19146ED88"/>
+                     <pb n="17" facs="unknown:029231_0010_0FDFF5D19146ED88"/>
                      <speaker>Hen.</speaker>
                      <p>I am not your rival.</p>
                   </sp>
@@ -1263,7 +1265,7 @@ I should have <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>e never known to him.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:029231_0011_0FDFF5D3348728A8"/>
+                     <pb n="18" facs="unknown:029231_0011_0FDFF5D3348728A8"/>
                      <speaker>Hen.</speaker>
                      <p>What's to be done?</p>
                   </sp>
@@ -1364,7 +1366,7 @@ Then he is not dead! kind for<g ref="char:EOLhyphen"/>tune, for that I thank the
                      <p>Let us then to the adjoining chamber, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap> there before my child and brother relate the whole. Though death to my son had been the result of the
-<pb n="19" facs="tcp:029231_0011_0FDFF5D3348728A8"/>
+<pb n="19" facs="unknown:029231_0011_0FDFF5D3348728A8"/>
                         <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>arrel, I must still have looked upon thee as th<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1426,7 +1428,7 @@ Then he is not dead! kind for<g ref="char:EOLhyphen"/>tune, for that I thank the
                            <desc>•</desc>
                         </gap>anditti lay themselves down in different parts of Cave.</hi>)</stage>
                   <stage>
-                     <pb n="20" facs="tcp:029231_0012_0FDFF5DBF86FE040"/>
+                     <pb n="20" facs="unknown:029231_0012_0FDFF5DBF86FE040"/>
                      <hi>Enter Don</hi> PEDRAS <hi>very melancholy; arms folded, hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> eyes bent to the ground; a dreadful crash is heard be <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1505,7 +1507,7 @@ The nigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <g ref="char:EOLunhyphen"/>brim shaker.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:029231_0012_0FDFF5DBF86FE040"/>
+                     <pb n="21" facs="unknown:029231_0012_0FDFF5DBF86FE040"/>
                      <speaker>Ami.</speaker>
                      <p>Yea; verily I say unto thee, I have no more <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1621,7 +1623,7 @@ The nigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      </p>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:029231_0013_0FDFF5DE5391CBD0"/>
+                     <pb n="22" facs="unknown:029231_0013_0FDFF5DE5391CBD0"/>
                      <speaker>1<hi>st.</hi>
                      </speaker>
                      <p>He has been sick for a month; he's nothing but skin and bone, he wont speak ten words in an hour.</p>
@@ -1704,7 +1706,7 @@ G<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <p>How many were concern'd in robbing this fellow?</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:029231_0013_0FDFF5DE5391CBD0"/>
+                     <pb n="23" facs="unknown:029231_0013_0FDFF5DE5391CBD0"/>
                      <speaker>2<hi>nd.</hi>
                      </speaker>
                      <p>There were four of us.</p>
@@ -1856,7 +1858,7 @@ Come make yourself ready, off <gap reason="illegible" resp="#PDCC" extent="1 wor
                                  <desc>〈◊〉</desc>
                               </gap>.</hi>)</stage>
                         <stage>
-                           <pb n="24" facs="tcp:029231_0014_0FDFF5DFED2BB498"/>
+                           <pb n="24" facs="unknown:029231_0014_0FDFF5DFED2BB498"/>
                            <hi>Banditi shout,</hi> Bravo! bravo! bravo!</stage>
                      </p>
                   </sp>
@@ -1983,7 +1985,7 @@ Oh dam the Quaker!
                      <p>Captain I'll tell you. As we were on o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="25" facs="tcp:029231_0014_0FDFF5DFED2BB498"/>
+                        <pb n="25" facs="unknown:029231_0014_0FDFF5DFED2BB498"/>
                         <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>out, not far from this, the other side the hill, we <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2103,7 +2105,7 @@ Lorenzo!</p>
                         </gap>dst thou condemn then I have done.
 <stage>(<hi>to Banditti.</hi>)</stage>
 Withdraw
-<pb n="26" facs="tcp:029231_0015_0FDFF5E19047CD08"/>
+<pb n="26" facs="unknown:029231_0015_0FDFF5E19047CD08"/>
 awhile, and leave to me this ſtranger.
 <stage>(<hi>they with draw.</hi>)</stage>
 I knew not that they had seized and brough<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2188,7 +2190,7 @@ I knew not that they had seized and brough<gap reason="illegible" resp="#PDCC" e
                         </gap> a low whisper; not even then did I suspect Amen an answer from a female struck me dumb, and lik<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="27" facs="tcp:029231_0015_0FDFF5E19047CD08"/>
+                        <pb n="27" facs="unknown:029231_0015_0FDFF5E19047CD08"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>tue fixed, I stood immoveable knowing the voice <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2272,7 +2274,7 @@ I knew not that they had seized and brough<gap reason="illegible" resp="#PDCC" e
                         </gap>, with them at intervals, but, to torment mankind <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> make them wretched as myself. You alone, do
-<pb n="28" facs="tcp:029231_0016_0FDFF5EC96743310"/>
+<pb n="28" facs="unknown:029231_0016_0FDFF5EC96743310"/>
 count my friend, for you I'd lay down my life.</p>
                   </sp>
                   <sp>
@@ -2381,7 +2383,7 @@ Hark! the storm again begins!</p>
                               <desc>•</desc>
                            </gap>ds! the caveit falls,</l>
                         <l>
-                           <pb n="29" facs="tcp:029231_0016_0FDFF5EC96743310"/>On our heads! oh! save our souls!</l>
+                           <pb n="29" facs="unknown:029231_0016_0FDFF5EC96743310"/>On our heads! oh! save our souls!</l>
                         <l>
                            <gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
@@ -2485,7 +2487,7 @@ Hark! the storm again begins!</p>
                      <speaker>Flav.</speaker>
                      <p>Your brother Lorenzo, and his friend Don
 <pb n="30"
-                            facs="tcp:029231_0017_0FDFF5EE30CF6C20"
+                            facs="unknown:029231_0017_0FDFF5EE30CF6C20"
                             rendition="simple:additions"/>
 Pedras have arrived already, and all is amicably set<g ref="char:EOLhyphen"/>tled.</p>
                   </sp>
@@ -2560,7 +2562,7 @@ I fear her interest is turn'd to something more tender—'Tis gratitude you feel
 'Tis as I suspected. But I will be sure, I'll try her friendship towards Pedras.—How do you like Don Pedras?</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:029231_0017_0FDFF5EE30CF6C20"/>
+                     <pb n="31" facs="unknown:029231_0017_0FDFF5EE30CF6C20"/>
                      <speaker>Flor.</speaker>
                      <p>Not at all.</p>
                   </sp>
@@ -2629,7 +2631,7 @@ I fear her interest is turn'd to something more tender—'Tis gratitude you feel
                   <sp>
                      <speaker>Ped.</speaker>
                      <p>Why this pensive, thoughtless, listless state
-<pb n="32" facs="tcp:029231_0018_0FDFF5EFCF7CFF10"/>
+<pb n="32" facs="unknown:029231_0018_0FDFF5EFCF7CFF10"/>
 my love? shouldst thou not fly with the wings of love, into thy Pedras' arms?</p>
                   </sp>
                   <sp>
@@ -2707,7 +2709,7 @@ I am in love.</p>
                   <sp>
                      <speaker>Flor.</speaker>
                      <p>By your description of the effects of love,
-<pb n="33" facs="tcp:029231_0018_0FDFF5EFCF7CFF10"/>
+<pb n="33" facs="unknown:029231_0018_0FDFF5EFCF7CFF10"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>t must be so, for I have been uneasy since I first <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2819,7 +2821,7 @@ I am in love.</p>
                      <p>The idea of leaving you, to be shut up in <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>loistered convent, hurt me so much, that when
-<pb n="34" facs="tcp:029231_0019_0FDFF5F169F541B8"/>
+<pb n="34" facs="unknown:029231_0019_0FDFF5F169F541B8"/>
 Don Pedras came a wooing to me, I affronted him, and he left the room quite angry.</p>
                   </sp>
                   <sp>
@@ -2893,7 +2895,7 @@ Will you, will you, protect me!</p>
                      <p>Adieu my love.</p>
                   </sp>
                   <stage>
-                     <pb n="35" facs="tcp:029231_0019_0FDFF5F169F541B8"/>
+                     <pb n="35" facs="unknown:029231_0019_0FDFF5F169F541B8"/>
                      <hi>Enter</hi> HENRY.</stage>
                   <sp>
                      <speaker>Hen.</speaker>
@@ -2970,7 +2972,7 @@ Will you, will you, protect me!</p>
                         </gap>y, which being fann'd by the breath of affection, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>pens into that of love; the person so deprav'd, if
-<pb n="36" facs="tcp:029231_0020_0FDFF5FBCA027830"/>
+<pb n="36" facs="unknown:029231_0020_0FDFF5FBCA027830"/>
 he casts a retrospective glance, on the beloved object who fell a victim to his perfidy, left to buffet the harsh world alone, robbed of that precious jewel, which all the riches of the eastern world could not purchase an equivalent, must be a hardened villain in<g ref="char:EOLhyphen"/>deed, whose conscience would not recoil upon himself.</p>
                   </sp>
                   <sp>
@@ -3017,7 +3019,7 @@ he casts a retrospective glance, on the beloved object who fell a victim to his 
                      <p>Thou counsellest well, but to contrive their destruction—</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:029231_0020_0FDFF5FBCA027830"/>
+                     <pb n="37" facs="unknown:029231_0020_0FDFF5FBCA027830"/>
                      <speaker>Ped.</speaker>
                      <p>They both shall die! I never will brook a rival.</p>
                   </sp>
@@ -3044,7 +3046,7 @@ he casts a retrospective glance, on the beloved object who fell a victim to his 
                      <p>
                         <stage>[looking after him with a contemptous smile.]</stage>
 Sound mayst thou sleep, had I my wish, indeed so sound, that thy immortal parts, the devil might call his own, before the morrows dawn. My friend! 'tis well enough to call thee so, till an oportunity invites to put it beyond thy reach to do me service or disservice. Oh Pedras, unfortunate for thee, that I have found thee out· I loved thee once, 'tis true, but now my mind is much altered. Hate is imperious, it scourges friend<g ref="char:EOLhyphen"/>ship from my bosom with a scorpion lash; and in its legitimate natal palace, uprears his usurping disloyal diadem. Should we succeed in exterminating our ri<g ref="char:EOLhyphen"/>vals; Don Pedras, I will take good care, shall not outlive their deaths so long as to take my sister to his bed.—The family to be poluted by him! yet am I not
-<pb n="38" facs="tcp:029231_0021_0FDFF5FD6B65CD60"/>
+<pb n="38" facs="unknown:029231_0021_0FDFF5FD6B65CD60"/>
 equally as bad? aye worse, if possible! but still un<g ref="char:EOLhyphen"/>known to all but Pedras. Truly, the two Americans have but little cause to believe me honest, but for their own sakes, they will not tell how basely they were treated by me. Don Pedras appears to me a faithful friend—so do I to him. He like myself, may wear the mask of friendship only, which now necessity commands; be that as it may, I am resolved, fix'd, and imovable—though remorse increase, as sins accu<g ref="char:EOLhyphen"/>mulate, I cannot now avoid the worst.</p>
                   </sp>
                   <stage>
@@ -3094,7 +3096,7 @@ equally as bad? aye worse, if possible! but still un<g ref="char:EOLhyphen"/>kno
                      <p>Don Pedras, or the Nunnery. Will you not disuade him from so severe a sentence? I like your enemy, that was, very much.</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:029231_0021_0FDFF5FD6B65CD60"/>
+                     <pb n="39" facs="unknown:029231_0021_0FDFF5FD6B65CD60"/>
                      <speaker>Lor.</speaker>
                      <p>For what do you love him?</p>
                   </sp>
@@ -3150,7 +3152,7 @@ equally as bad? aye worse, if possible! but still un<g ref="char:EOLhyphen"/>kno
                         <l>Her father made of this a jest,</l>
                         <l>But he was punis'd, hear the will;</l>
                         <l>
-                           <pb n="40" facs="tcp:029231_0022_0FDFF5FF0B6298B8"/>His house with elemental fire, was burn'd,</l>
+                           <pb n="40" facs="unknown:029231_0022_0FDFF5FF0B6298B8"/>His house with elemental fire, was burn'd,</l>
                         <l>Among the ruins, he next day was found.</l>
                      </lg>
                   </sp>
@@ -3204,7 +3206,7 @@ equally as bad? aye worse, if possible! but still un<g ref="char:EOLhyphen"/>kno
                   <sp>
                      <speaker>Cel.</speaker>
                      <p>Methought I heard somebody's voice under my window, speaking in a low tone! 'tis somewhat strange at this late hour! I see nobody! whoever they may be, they are after no good, I will be
-<pb n="41" facs="tcp:029231_0022_0FDFF5FF0B6298B8"/>
+<pb n="41" facs="unknown:029231_0022_0FDFF5FF0B6298B8"/>
 sworn.
 <stage>(<hi>looks round.</hi>)</stage>
 All is silent—could I be de<g ref="char:EOLhyphen"/>ceived? could it be fancy? it must be so,
@@ -3303,7 +3305,7 @@ How provoking! you should take more care than one that's young, the vital spirit
                      <p>
                         <stage>(<hi>aside.</hi>)</stage>
 No, but I would wish to give
-<pb n="42" facs="tcp:029231_0023_0FDFF600A75D4540"/>
+<pb n="42" facs="unknown:029231_0023_0FDFF600A75D4540"/>
 thoughts to my room.—I intreat you to go in, 'tis in<g ref="char:EOLhyphen"/>deed for your sake that—</p>
                   </sp>
                   <sp>
@@ -3376,7 +3378,7 @@ Oh, how I tremble.
 Now come hither,
 <stage>(<hi>all advance near the front.</hi>)</stage>
 do you all with<g ref="char:EOLhyphen"/>draw
-<pb n="43" facs="tcp:029231_0023_0FDFF600A75D4540"/>
+<pb n="43" facs="unknown:029231_0023_0FDFF600A75D4540"/>
 with this my friend, and should any alarm be given, then run to my assistance; this precaution is necessary, for fear of surprise.</p>
                   </sp>
                   <sp>
@@ -3414,7 +3416,7 @@ I think I will surprise some of you. I'll give you a taste of my double barrel'd
                      <p>Nights sable mantle now enrobes the world<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> the dashing waters seem to rip the shore, and ships deep freighted, plough the foaming main; where many in<g ref="char:EOLhyphen"/>nocents have closed their eyes in seas unfathomable. But oh, Florella! thy untimely death, would turn to tears, the flinty stones, and make all honest men look pale with horror. In cupid's chains once more I'm fettered, his magic shaft has pierced my heart so deep, nought but possession can exterminate. My rival, ha! my successful rival; while he lives, Lo<g ref="char:EOLhyphen"/>renzo
-<pb n="44" facs="tcp:029231_0024_0FDFF60B0DBE5750"/>
+<pb n="44" facs="unknown:029231_0024_0FDFF60B0DBE5750"/>
 dies—dies piecemeal. The goading thought still harasses my soul, stirs up fiery indignation strong within me, and flashes vindictive fury through my brain. One way to escape the labyrinth is left, to Isabella's maid I'll give all powerful gold, and she will aid me in my dark intent. At midnight, unex<g ref="char:EOLhyphen"/>pected, to her chamber I will steal, when if she reject my suit, loves furious passion will thrice nerve my limbs, and she a victim to my love shall fall.
 <stage>(<hi>exit.</hi>)</stage>
                      </p>
@@ -3456,7 +3458,7 @@ Henry where art thou now? perhaps he hath his mortal wound, and now expiring cur
                      <p>What?</p>
                   </sp>
                   <sp>
-                     <pb n="45" facs="tcp:029231_0024_0FDFF60B0DBE5750"/>
+                     <pb n="45" facs="unknown:029231_0024_0FDFF60B0DBE5750"/>
                      <speaker>Isa.</speaker>
                      <p>I cannot dissemble, I will never marry Sig<g ref="char:EOLhyphen"/>nior Lorenzo.</p>
                   </sp>
@@ -3504,7 +3506,7 @@ Henry where art thou now? perhaps he hath his mortal wound, and now expiring cur
                   <sp>
                      <speaker>Isa</speaker>
                      <p>What will now become of me? my Henry I'm thankful escap'd unknown; I hope unhurt; I will persuade my father to let me pass one day more
-<pb n="46" facs="tcp:029231_0025_0FDF741F2D6A57C0"/>
+<pb n="46" facs="unknown:029231_0025_0FDF741F2D6A57C0"/>
 under his roof, promise to marry Lorenzo, get Hen<g ref="char:EOLhyphen"/>ry to come at night when all is silent, once more! Oh no, that is impossible now, the gates are doubly bar<g ref="char:EOLhyphen"/>red, and guarded too! Well is there no other way? must I submit to waste my days in solitary confine<g ref="char:EOLhyphen"/>ment, shut out forever from my Henry's sight? will heaven look on and suffer this?—
 <stage>(<hi>weeps, after some time speaks again.</hi>)</stage>
 I think I have hit upon a plan that may succeed; this room by that door leads into another; the windows of which open in the garden, could I but bribe my maid to make interest with the porter to leave the garden gate open—I could that way easily admit him, and he will release me from my prison. I will not loose a moments time—Lu<g ref="char:EOLhyphen"/>cetta—
@@ -3555,7 +3557,7 @@ Lucetta, to-morrow I leave you, this night is my lust in this house.</p>
                      </p>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:029231_0025_0FDF741F2D6A57C0"/>
+                     <pb n="47" facs="unknown:029231_0025_0FDF741F2D6A57C0"/>
                      <speaker>Luc.</speaker>
                      <p>
                         <stage>(<hi>aside.</hi>)</stage>
@@ -3615,7 +3617,7 @@ The second bribe I have receiv'd this day; one from my lady, and one from Signio
                         </gap>ot treated me with deadly scorn? she has; and that <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>o me is excuse sufficient. When from her slumbers
-<pb n="48" facs="tcp:029231_0026_0FDFF60F054430B8"/>
+<pb n="48" facs="unknown:029231_0026_0FDFF60F054430B8"/>
 awak'd, finding herself with me alone, she may alarm the house, and I be caught in mine own snare—I am impatient, yet dread the encounter. The fatal mo<g ref="char:EOLhyphen"/>ment has at last arriv'd, that decides my happiness or my misery eternal—
 <stage>[goes to the couch, takes her hand and kisses it.]</stage>
 —Oh! enthusiastic kiss! still. still asleep!—
@@ -3675,7 +3677,7 @@ Then instantly leave me, or I will alarm the house.</p>
                   <sp>
                      <speaker>Lor.</speaker>
                      <p>I cannot answer you—I am so far advanced
-<pb n="49" facs="tcp:029231_0026_0FDFF60F054430B8"/>
+<pb n="49" facs="unknown:029231_0026_0FDFF60F054430B8"/>
 I cannot now retreat—my shame you will disclose— my infamy, will be the sport of every bragadocia's tongue, and every menial wretch will point at me as I pass.</p>
                   </sp>
                   <sp>
@@ -3740,7 +3742,7 @@ I cannot! I thought no deed too bloody for me, now to act. No I will not kill th
                      <speaker>Lor.</speaker>
                      <p>Nay then! thus will I force you to my will.
 <stage>(<hi>the ghost of Florella appears, her face very pale, lips
-<pb n="50" facs="tcp:029231_0027_0FDFF6109EF5CFD0"/>
+<pb n="50" facs="unknown:029231_0027_0FDFF6109EF5CFD0"/>
 blue, her eyes appear sunk in her head. The moment Lorenzo beholds her, he starts back, and is fixed like a statue of horror, eyeing the Spectre with rivetted atten<g ref="char:EOLhyphen"/>tion, his whole frame appears convulsed, his breast thorbs quick—after same time, speaks wildly—music.</hi>)</stage>
 How differen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -3803,7 +3805,7 @@ I will now depart, and leave y<gap reason="illegible" resp="#PDCC" extent="1 let
                      <p>Oh, leave me then!</p>
                   </sp>
                   <sp>
-                     <pb n="51" facs="tcp:029231_0027_0FDFF6109EF5CFD0"/>
+                     <pb n="51" facs="unknown:029231_0027_0FDFF6109EF5CFD0"/>
                      <speaker>Lor.</speaker>
                      <p>I will. But let me take thy forgiveness with me?</p>
                   </sp>
@@ -3870,7 +3872,7 @@ What think you? have I not all sure now?</p>
                   <sp>
                      <speaker>Wal.</speaker>
                      <p>'Egad I think so indeed, your window
-<pb n="52" facs="tcp:029231_0028_0FDFF61AAB02B630"/>
+<pb n="52" facs="unknown:029231_0028_0FDFF61AAB02B630"/>
 schemes I cannot say I am very fond of, but I am at your service. Flavio is obstinately bent upon Florin<g ref="char:EOLhyphen"/>da's marrying Don Pedras or he'll send her to a nunnery likewise. She has solemnly promised to ac<g ref="char:EOLhyphen"/>cept no hand but mine. You first make sure of Isa<g ref="char:EOLhyphen"/>bella, then will I marry Florinda. We must both <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>hare the same fate. I will wait for your success.</p>
@@ -3931,7 +3933,7 @@ Oh, mercy, defend me! here is all the devil, sure enough.</p>
                      <p>So the inside is pure when you put it on, the devil will do you no harm, for 'tis only his skin.</p>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:029231_0028_0FDFF61AAB02B630"/>
+                     <pb n="53" facs="unknown:029231_0028_0FDFF61AAB02B630"/>
                      <speaker>Fri.</speaker>
                      <p>Well son, if you will have it so—</p>
                   </sp>
@@ -3989,7 +3991,7 @@ Oh, mercy, defend me! here is all the devil, sure enough.</p>
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="54" facs="tcp:029231_0029_0FDFF61C4B52E918"/>
+                  <pb n="54" facs="unknown:029231_0029_0FDFF61C4B52E918"/>
                   <head>
                      <hi>SCENE IV</hi>—A room in <hi>FLAVIO's</hi> House.</head>
                   <stage>
@@ -4068,7 +4070,7 @@ Wait but a moment, I am not yet prepared!—
                   <sp>
                      <speaker>Lor.</speaker>
                      <p>Is it possible? give me thy hand! give me
-<pb n="55" facs="tcp:029231_0029_0FDFF61C4B52E918"/>
+<pb n="55" facs="unknown:029231_0029_0FDFF61C4B52E918"/>
 ocular demonstration! let me feel some flesh that's mortal beside my own.
 <stage>(<gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
@@ -4111,7 +4113,7 @@ ocular demonstration! let me feel some flesh that's mortal beside my own.
                   <sp>
                      <speaker>Lor.</speaker>
                      <p>Methought I lay upon a towering rock, whose fathom base lodg'd in the sea—The silver moon unclouded, and the twinkling stars, look'd more than common brilliant—when lo at distance a dark cloud with imperious frown advanc'd, and veil'd the heavens; the troubled ocean beat, and foam'd against the rock on which I lay—when looking down into the wat'ry steep I beheld Florella; she spoke to me a dreadful summons. Then Angels from Heaven descended, in whose arms her fleeting soul, majestically was born—
-<pb n="56" facs="tcp:029231_0030_0FDFF61DE6E5EE78"/>
+<pb n="56" facs="unknown:029231_0030_0FDFF61DE6E5EE78"/>
 celestial strains accompanied her to the realms of im<g ref="char:EOLhyphen"/>mortal bliss!—She disappear'd, the dashing waters still'd, they turn'd to blood! and dire contention rose among the billows—Blood turn'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>o flames, and all was hell around me!—She cast her yelling evil spirits forth, who with menacing ghastly grins, seiz'd me trembling, convicted, and hurld'd me in the fiery gulph desponding! then in this vast abyss I lay, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4125,7 +4127,7 @@ celestial strains accompanied her to the realms of im<g ref="char:EOLhyphen"/>mo
                   <sp>
                      <speaker>Lor.</speaker>
                      <p>Oh that I had wak'd even then!—I was sur<g ref="char:EOLhyphen"/>rounded now on every side by those dread wretches, in each their left hands was held a flambeau, and in their right a forked spear; their jubilee at my being one of them, they signified by gesticulation most horrid, and wildly dancing round me!—of a sudden all this ghastly band stood still, their eyes beam'd terror and dismay, and from out their mouths they delug'd fire and smoke; I was seiz'd, and drag'd from out this everlasting fire and plac'd on a river's bank below— the waters up and down—far as my eyes could reach, on either side, were lin'd by those that brought me thither—on me all their basilisk eyes were rivetted— I saw on the opposite side a boat coming towards me, soon as it arriv'd, one voice alone, aloud ex<g ref="char:EOLhyphen"/>claim'd—for all on the instant spoke, "Follow us, and mingle with the dam'd!"—but with so terrible, and vaunting peals, my ears for some long time fan<g ref="char:EOLhyphen"/>cied the sound of roaring thunder!—almost petrified I stood—they forc'd me in—they then put off—and when we gain'd the centre of the stygian flood, the tumultuous discord of those yelling fiends were horrible! those who lin'd the river far and near now instant all assembled round, menacing, with
-<pb n="57" facs="tcp:029231_0030_0FDFF61DE6E5EE78"/>
+<pb n="57" facs="unknown:029231_0030_0FDFF61DE6E5EE78"/>
 their flambeaus destruction, and belching flames! as though each with the mineral combustion of mount Ae<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>na, or mount Vesuvius were pregnant; the boat then sunk in a flame of fire, and I awoke from out that sleeping torture, the effect of which though I were to live for ages, would never be from memory eras'd.</p>
@@ -4165,7 +4167,7 @@ But I cannot shake entirely off this dream of futurity—still it clings its iro
                   <sp>
                      <speaker>Lor.</speaker>
                      <p>In truth my spirits are quite low, strength do not desert me now, hold up my frame a little longer.
-<pb n="58" facs="tcp:029231_0031_0FDFF61F87584F60"/>
+<pb n="58" facs="unknown:029231_0031_0FDFF61F87584F60"/>
 Don Pedras we will consult, and advise the most speedy, and surest method of revenge, But the sins I have already accumulated on my head, dulls the edge of my resolution, that I cannot sheath my en<g ref="char:EOLhyphen"/>mity in the heart of my rival.
 <stage>(<hi>exit.</hi>)</stage>
                      </p>
@@ -4203,7 +4205,7 @@ Don Pedras we will consult, and advise the most speedy, and surest method of rev
                   <stage>(<hi>Exit.</hi>)</stage>
                </div>
                <div n="7" type="scene">
-                  <pb n="59" facs="tcp:029231_0031_0FDFF61F87584F60"/>
+                  <pb n="59" facs="unknown:029231_0031_0FDFF61F87584F60"/>
                   <head>
                      <hi>SCENE VII.</hi>—Time night.—<hi>CELIO's</hi> garden, the rear of his house is discovered, in the back ground.— A well decayed and old stands under <hi>ISABELLA's</hi> window.</head>
                   <stage>
@@ -4275,7 +4277,7 @@ Withdraw, should any a<g ref="char:EOLhyphen"/>larm be given, immediately come t
                         </gap>hisper.</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:029231_0032_0FDFF62B45BF4C58"/>
+                     <pb n="60" facs="unknown:029231_0032_0FDFF62B45BF4C58"/>
                      <speaker>Isa.</speaker>
                      <p>Where is the Friar?</p>
                   </sp>
@@ -4360,7 +4362,7 @@ Oh Henry!</p>
                </div>
             </div>
             <div n="5" type="act">
-               <pb n="61" facs="tcp:029231_0032_0FDFF62B45BF4C58"/>
+               <pb n="61" facs="unknown:029231_0032_0FDFF62B45BF4C58"/>
                <head>ACT V.</head>
                <div n="1" type="scene">
                   <head>
@@ -4439,7 +4441,7 @@ Where is Lucett, my old piece?</p>
                         <l>Since jollification is the word,</l>
                         <l>And all hearts true that's here Sir;</l>
                         <l>
-                           <pb n="62" facs="tcp:029231_0033_0FDFF62E459D5508"/>We'll enter without fire or sword</l>
+                           <pb n="62" facs="unknown:029231_0033_0FDFF62E459D5508"/>We'll enter without fire or sword</l>
                         <l>Into what we've got here Sir,</l>
                      </lg>
                      <lg>
@@ -4495,7 +4497,7 @@ Where is Lucett, my old piece?</p>
                      <p>Oh Florinda, snail-creeping time is tedious, our mutual destiny we will with patience bear; let sorrow drink quite dry her bitter cup<g ref="char:punc">▪</g> she her thirst may quench, that in after ages we may remain a great memento of constancy and love.</p>
                   </sp>
                   <sp>
-                     <pb n="63" facs="tcp:029231_0033_0FDFF62E459D5508"/>
+                     <pb n="63" facs="unknown:029231_0033_0FDFF62E459D5508"/>
                      <speaker>Flor.</speaker>
                      <p>Must we then forever here remain, never more to scent the fragrant budding rose, or violets perfume; nor walter steal to these longing arms to heal my wounded heart? my spirits ebb apace, and soon will I fall a sacrifice, if not released from this drear solit<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -4550,7 +4552,7 @@ Isabella! dear, hear thy Henry too.</p>
                         <l>Then banish every thought of woe.</l>
                      </lg>
                      <lg>
-                        <pb n="64" facs="tcp:029231_0034_0FDFF62FEA0AA648"/>
+                        <pb n="64" facs="unknown:029231_0034_0FDFF62FEA0AA648"/>
                         <head>
                            <hi>HENRY,</hi> without.</head>
                         <l>Isabella still thy Henry is true,</l>
@@ -4603,7 +4605,7 @@ Isabella! dear, hear thy Henry too.</p>
                         </gap>d steeds of chiva<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ry, but the sex would sap; put two together, and the devil himself
-<pb n="65" facs="tcp:029231_0034_0FDFF62FEA0AA648"/>
+<pb n="65" facs="unknown:029231_0034_0FDFF62FEA0AA648"/>
 would stand but a poor chance against them.</p>
                   </sp>
                   <sp>
@@ -4666,7 +4668,7 @@ Ah! here he comes—how he has made his retreat good without a discovery is unac
                      <p>If it be so—I think thou art the most devil<g ref="char:EOLhyphen"/>ish of all my children. O wicked abominable world. O such a night, such a night was never passed in purgatory,</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:029231_0035_0FDFF6318A4AEEF8"/>
+                     <pb n="66" facs="unknown:029231_0035_0FDFF6318A4AEEF8"/>
                      <speaker>Wal.</speaker>
                      <p>You have then gone through your purgation Your sins are purg'd away.</p>
                   </sp>
@@ -4715,7 +4717,7 @@ Ah! here he comes—how he has made his retreat good without a discovery is unac
                      <p>I am right; the bottom—there I lay stun<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ed by the violent fall—and then I began to dream— I dream'd I was in purgatory, and there I was like to stick, for I thought all poisonous hissing serpents were playing round about my face; and lo! when I awoke, these serpents were nothing but frogs, "and by my veracity one taking me to be a Frenchman had actually got into my mouth, and I gave him a very hard bite before he found out his mistake"<note n="*" place="bottom">This sentence is not the author's, but introduced by the translator.</note>—I at<g ref="char:EOLhyphen"/>tempted after coming a little to myself to clamber out at the top, which I had nearly reached when a
-<pb n="67" facs="tcp:029231_0035_0FDFF6318A4AEEF8"/>
+<pb n="67" facs="unknown:029231_0035_0FDFF6318A4AEEF8"/>
 stone on which my whole weight bore, dislodg'd and down falls the stone, and myself to the bottom again. "I smash'd some of the French diable gentry be<g ref="char:EOLhyphen"/>low, for they did croak most shockingly."<note n="§" place="bottom">Introduc'd by the translator.</note>
                      </p>
                   </sp>
@@ -4748,7 +4750,7 @@ stone on which my whole weight bore, dislodg'd and down falls the stone, and mys
                   <sp>
                      <speaker>Fri.</speaker>
                      <p>Thank you son. Come to my cell, and I'll give you absolution, gratis. But I have not finished yet, my unfortunate story. Having got clear from the house undiscovered, two great dogs standing in the street, fell foul of me—thanks to the rotten dress
-<pb n="68" facs="tcp:029231_0036_0FDFF63A21335038"/>
+<pb n="68" facs="unknown:029231_0036_0FDFF63A21335038"/>
 that saved my flesh—I tore one of the horns from off my head, and p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>y'd about them lustily—they was glad e<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4818,7 +4820,7 @@ Remember, and send home the dress. We will now to Flavio's, take a round in his 
                      <p>I bring thee news. Our rivals I have over<g ref="char:EOLhyphen"/>heard. They suspect most s<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>rongly you, and like<g ref="char:EOLhyphen"/>wise me, being the persons by whom they were as<g ref="char:EOLhyphen"/>sailed, last night—they intend leaving the house,
-<pb n="69" facs="tcp:029231_0036_0FDFF63A21335038"/>
+<pb n="69" facs="unknown:029231_0036_0FDFF63A21335038"/>
 now is our only chance—this evening when they walk (which every night they do) into this garden, we will unawares, unseen, spring on them both, and we will rid at o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ce the world <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4891,7 +4893,7 @@ now is our only chance—this evening when they walk (which every night they do)
                         </gap>ccuse us of something crimin<g ref="char:EOLhyphen"/>al! I dread the consequence.</p>
                   </sp>
                   <sp>
-                     <pb n="70" facs="tcp:029231_0037_0FDFF63C9F9E6BE0"/>
+                     <pb n="70" facs="unknown:029231_0037_0FDFF63C9F9E6BE0"/>
                      <speaker>Wal.</speaker>
                      <p>We must away imediately—each moment longer that we stay is fraught with danger.
 <stage>(<hi>exeunt.</hi>)</stage>
@@ -4960,7 +4962,7 @@ If he lives, 'twill dicover my guilt. If he dies, to the world once more I am in
                      <p>Look up thou matyr'd friend; friendship now must undergo a wondrous test; death now is on<g ref="char:EOLhyphen"/>ly left to ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>e thy miseries—Impulse to relieve the
-<pb n="71" facs="tcp:029231_0037_0FDFF63C9F9E6BE0"/>
+<pb n="71" facs="unknown:029231_0037_0FDFF63C9F9E6BE0"/>
 suff<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>rings of my friend, to cut short the thread of life already str<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5016,7 +5018,7 @@ I must remain no longer here, but to a Surgeon; then contrive means to unload su
                   <sp>
                      <speaker>Cel.</speaker>
                      <p>And thy virtuous son to my daughter;— when our children have been in the Nunnery less than a week, with downcast eyes and virgin blushing cheeks, they each will say, I'll marry whom you please. Then will my old heart dance, and thine
-<pb n="72" facs="tcp:029231_0038_0FDFF63E38235A68"/>
+<pb n="72" facs="unknown:029231_0038_0FDFF63E38235A68"/>
 my brother will be transported too, we will feel young again, seeing our children happy, once mar<g ref="char:EOLhyphen"/>ried, love comes of course.</p>
                   </sp>
                   <sp>
@@ -5111,7 +5113,7 @@ Say how?</p>
                      <p>If my daugter is really married, then fare<g ref="char:EOLhyphen"/>well comfort in this life forever,</p>
                   </sp>
                   <sp>
-                     <pb n="73" facs="tcp:029231_0038_0FDFF63E38235A68"/>
+                     <pb n="73" facs="unknown:029231_0038_0FDFF63E38235A68"/>
                      <speaker>Fool.</speaker>
                      <p>I guess they are comfortable enough, by this time.</p>
                   </sp>
@@ -5163,7 +5165,7 @@ Say how?</p>
                         <head>SONG</head>
                         <l>Since eating of sweetmeats they say,</l>
                         <l>
-                           <pb n="74" facs="tcp:029231_0039_0FDFF63FD973BF40"/>Makes Friars to snort and to snore Sir,</l>
+                           <pb n="74" facs="unknown:029231_0039_0FDFF63FD973BF40"/>Makes Friars to snort and to snore Sir,</l>
                         <l>From the Monks I stole this to day,</l>
                         <l>As back fast asleep they did stare, Sir.</l>
                      </lg>
@@ -5242,7 +5244,7 @@ Say how?</p>
                      <p>Where are they. Are they both married?</p>
                   </sp>
                   <sp>
-                     <pb n="75" facs="tcp:029231_0039_0FDFF63FD973BF40"/>
+                     <pb n="75" facs="unknown:029231_0039_0FDFF63FD973BF40"/>
                      <speaker>Gent.</speaker>
                      <p>They are.</p>
                   </sp>
@@ -5351,7 +5353,7 @@ Say how?</p>
                         </gap>er's married.</p>
                   </sp>
                   <sp>
-                     <pb n="76" facs="tcp:029231_0040_0FDFF64B57BA1CA8"/>
+                     <pb n="76" facs="unknown:029231_0040_0FDFF64B57BA1CA8"/>
                      <speaker>Cel.</speaker>
                      <p>And mine too Lorenzo, who was to have been thy wife.</p>
                   </sp>
@@ -5442,7 +5444,7 @@ Since we are not accus'd we will not tell Lorenzo's perfidy. 'Twould break Flavi
                         </gap>d hanging on his shoulders the wound in his head bleeding—he goes to Fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>vio, kneels before him, takes his hand, puts it to his lips and kisses
-<pb n="77" facs="tcp:029231_0040_0FDFF64B57BA1CA8"/>
+<pb n="77" facs="unknown:029231_0040_0FDFF64B57BA1CA8"/>
 it—Flavio recovers, and throws himself on his son's neck in speechless agony. Music.</hi>
                   </stage>
                   <sp>
@@ -5543,7 +5545,7 @@ H<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>, like a meteor's long fiery trail? and now it leaves a pulse behi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>d! Oh! the poison with impetuous power rushes thro'
-<pb n="78" facs="tcp:029231_0041_0FDF74211803EF18"/>
+<pb n="78" facs="unknown:029231_0041_0FDF74211803EF18"/>
 every vein, each sinew artery!—my tongue cleaves to it's clammy roof!—And now the ague's rack begins to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>hake my joints—the rolling ice, from off my forehead drops, and chattering teeth, are pre<g ref="char:EOLhyphen"/>lud<gap reason="illegible" resp="#PDCC" extent="1 letter">
